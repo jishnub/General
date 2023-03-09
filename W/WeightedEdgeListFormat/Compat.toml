@@ -1,0 +1,7 @@
+[0]
+CSV = "1"
+DataFrames = "1"
+GraphIO = "0"
+Graphs = "1"
+SimpleWeightedGraphs = "1"
+julia = "1"
